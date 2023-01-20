@@ -1,5 +1,7 @@
 # devalue
 
+**This fork is the `devalue` package built as an IIFE for use inside [Ergo](https://github.com/dimfeld/ergo).**
+
 Like `JSON.stringify`, but handles
 
 - cyclical references (`obj.self = obj`)
